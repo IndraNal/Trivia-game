@@ -1,0 +1,54 @@
+.container {
+  background-image: url(../images/pattern.png);
+  position: absolute;
+}
+
+#quiz {
+  background-color: #fef392;
+  width: 80%;
+  position: relative;
+  right: 20%;
+  left: 7%;
+  text-align:center;
+}
+
+h1 {
+  color: #5b5bd8;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#time {
+  font-size: 20px;
+  color: rgb(8, 2, 2);
+  text-align: center;
+  font-weight: bold;
+}
+
+#quiz {
+  padding: 20px;
+  margin: 20px;
+  position: relative;
+}
+
+#startButton
+{
+ background-color:rgb(224, 184, 190);
+ font-weight: bold;
+ border-color: #5b5bd8;
+ padding: 10px 70px;
+ margin:50px;
+font-size:20px;
+}
+
+#submit{
+
+  background-color:rgb(224, 184, 190);
+  font-weight: bold;
+ border-color: #5b5bd8;
+ padding: 10px 70px;
+ margin:20px;
+font-size:20px;
+
+}
